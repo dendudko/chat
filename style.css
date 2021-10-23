@@ -14,8 +14,7 @@ body{
 }
 
 .in:focus {
-    border: 1px solid #1c1d1f;
-    border-radius: 20px;
+    outline: none;
 }
 
 .form{
