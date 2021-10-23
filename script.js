@@ -1,5 +1,4 @@
-localStorage.clear();
-
+//localStorage.clear();
 function setFocus()
 {
     document.getElementById("in").focus();
