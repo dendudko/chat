@@ -53,7 +53,8 @@ body{
 .messages{
     border-radius: 20px;
     background-image: url(bg.jpg);
-    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
     min-width: 90%;
     height: 80vh;
     margin-bottom: 2vh;
